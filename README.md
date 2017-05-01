@@ -1,5 +1,7 @@
 # image filter
 
+![](http://ww1.sinaimg.cn/large/8e4b184agy1ff6cb24d0cj205f05fmx1.jpg)
+
 使用 [Vue](http://vuejs.org/) 开发
 
 代码规范遵循 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#airbnb-javascript-style-guide-)
