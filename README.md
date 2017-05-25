@@ -6,6 +6,8 @@
 
 Git commit 附加信息的格式参考[ Angular 提交信息规范](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#commit-message-format)
 
+扫描以下二维码体验 Demo
+
 ![](canvas-filter.png)
 
 ## 本地开发流程
